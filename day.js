@@ -6,7 +6,7 @@
 //     const num2=67;
 //     console.log(num2)
 // var num=54;
-// var num=68;
+  // var num=68;
 // console.log(num)
 // var num=54;
 // num=34;     //redeclaration in only var
