@@ -66,6 +66,8 @@
 // }
 // let num1=prompt("enter your number")
 // if(num1%2==0){
+
+
 //     alert("even")
 // }
 // else{
