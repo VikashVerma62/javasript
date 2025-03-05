@@ -15,6 +15,7 @@ let Sub=()=>{
        if(name===""){
         document.querySelector("#name").placeholder="Enter Name"
         // name.placeholder="Please enter your name";
+        
         errorname.style.color="red";
         errorname.style.fontSize="30px";
         return false;
